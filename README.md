@@ -2,7 +2,7 @@
 An emotion recognition system using deep convolutional neural networks, built with TensorFlow/Keras and deployed via Streamlit.
 
 #### Reference Paper
-![Link here](https://arxiv.org/pdf/1511.08458)
+https://arxiv.org/pdf/1511.08458
 
 ### Overview
 This project implements a facial emotion recognition system that can classify 7 different emotions:
